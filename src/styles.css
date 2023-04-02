@@ -43,6 +43,10 @@ li:first-letter {
 .row {
   flex-wrap: nowrap;
 }
+.col-9 {
+  flex: 0 0 auto;
+  width: 50%;
+}
 
 .overview {
   margin-bottom: 20px;
