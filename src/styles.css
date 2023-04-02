@@ -40,6 +40,9 @@ li:first-letter {
   border: 1px solid #dadde1;
   border-radius: 5px;
 }
+.row {
+  flex-wrap: nowrap;
+}
 
 .overview {
   margin-bottom: 20px;
